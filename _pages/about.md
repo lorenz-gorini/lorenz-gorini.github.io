@@ -13,7 +13,7 @@ I hold an MSc in Theoretical Physics and recently graduated with honors from the
 
 Previously, I worked for three years at HK3Lab, a startup, where I managed a research project sponsored by the US FDA and I implemented state-of-the-art AI techniques for supporting histopathologists in the image-based diagnosis during preclinical trials.
 
-My primary research interests lie at the intersection of economics, data science and public economy. I am particularly interested in development economics, and the application of machine learning to economic data analysis.
+My primary research interests lie at the intersection of economics, data science and public economics. I am particularly interested in development economics, and the application of machine learning to economic data analysis.
 
 <!-- 
 A data-driven personal website
