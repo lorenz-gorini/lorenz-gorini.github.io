@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Format](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvcyFBc2I5Q2FuTHJLU2RndmRpRUlzd3NRZ250ek5sZ2c&cid=9DA4ACCBA909FDC6&id=9DA4ACCBA909FDC6%2148098&parId=9DA4ACCBA909FDC6%2147810&o=OneUp)
+
 ## Education
- 
+
 * **Ph.D. Student in Economics**, Università Commerciale Luigi Bocconi, Milan, Italy (Sept 2024 – Ongoing):
   * Research interests: Macroeconomics, Inequality, Machine Learning, Development Economics
 * **M.Sc. in Data Science for Public Policy (Economics)**, University College London, United Kingdom (Sept 2022 – Sept 2023)
